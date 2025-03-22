@@ -2,7 +2,9 @@
 
 A Flutter package for generating offline number-based CAPTCHAs with scribble effects. This package provides a customizable, secure, and visually appealing CAPTCHA solution that works across all Flutter platforms (iOS, Android, Web).
 
-![CAPTCHA Example](screenshots/example.png)
+![image](https://github.com/user-attachments/assets/e17dfe58-b835-473b-93d5-51df8ab0a3d2)
+![Screenshot_1742666586](https://github.com/user-attachments/assets/0673b96b-b2ac-4025-aa5e-25226e34fe81)
+
 
 ## Features
 
